@@ -1,0 +1,4 @@
+node_modules/
+.env
+PRODUCTAPI/node_modules
+images.png
